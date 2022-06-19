@@ -1,0 +1,11 @@
+nav {
+    background-color: antiquewhite;
+    height: 50px;
+    text-align: center;
+}
+
+a {
+    margin: auto 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+}

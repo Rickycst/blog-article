@@ -1,0 +1,10 @@
+.card {
+    background-color: rgb(185, 187, 187);
+    width: 25%;
+    min-height: 250px;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    box-shadow: 0 5px 15px black;
+    display: inline-block;
+
+}
